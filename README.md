@@ -3,10 +3,12 @@
 </p>
 
 ------------------
-<h1 align="left">Hola 👋, Soy Miguel Ortega </h1>
+<h1 align="left">Hola, Soy Miguel Ortega :muscle: :100: </h1>
 
 <h3 align="left">Ingeniero electricista :zap: y muy pronto tegnologo en Analisis y desarrollo de Software :computer: :blue_heart: , apasionado por el maravilloso mundo de la programacion. ¡Bienvenido a mi pequeño pedaso de código!</h3>
 &emsp;
+
+## 📈 Mi actividad en GitHub
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -29,6 +31,3 @@
 </table>
 
 
-
-### 1 - Estadisticas de git de 1010 nishant
-### 2 - Baner de  berkeli.md
