@@ -1,8 +1,9 @@
-<h1 align="center">Hola 👋, Soy Miguel Ortega </h1>
-
-<img src="https://github.com/KhadaJhiin/KhadaJhiin/assets/88953367/b7600e7c-3d4c-4df9-93d1-0237a22dc932">
+<p align="center">
+  <img src="https://github.com/KhadaJhiin/KhadaJhiin/assets/88953367/b7600e7c-3d4c-4df9-93d1-0237a22dc932" height="350" width="700" />
+</p>
 
 ------------------
+<h1 align="left">Hola 👋, Soy Miguel Ortega </h1>
 &emsp;
 <h3 align="left">Ingeniero electricista :zap: y muy pronto tegnologo en Analisis y desarrollo de Software :computer: :blue_heart: , apasionado por el maravilloso mundo de la programacion. ¡Bienvenido a mi pequeño pedaso de código!</h3>
 &emsp;
