@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/KhadaJhiin/KhadaJhiin/assets/88953367/b7600e7c-3d4c-4df9-93d1-0237a22dc932" height="250" width="700" />
+  <img src="https://github.com/KhadaJhiin/KhadaJhiin/assets/88953367/363044c4-ec11-4757-ba45-25bc06c57eac" height="250" width="700" />
 </p>
 
 ------------------
