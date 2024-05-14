@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Miguel Ortega </h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jp" align="center" alt="berkeli header image">
+<img src="https://github.com/KhadaJhiin/KhadaJhiin/assets/88953367/b7600e7c-3d4c-4df9-93d1-0237a22dc932">
 
 ------------------
 &emsp;
