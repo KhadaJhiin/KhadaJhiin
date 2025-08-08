@@ -3,12 +3,12 @@
 </p>
 
 ------------------
-<h1 align="left">Hola, Soy Miguel Ortega :muscle: :100: </h1>
+<h1 align="left">Hi there, I'm Miguel Ortega :muscle: :100: </h1>
 
-<h3 align="left">Ingeniero electricista :zap: y muy pronto tegnologo en Analisis y desarrollo de Software :computer: :blue_heart: , apasionado por el maravilloso mundo de la programacion. ¡Bienvenido a mi pequeño pedaso de código!</h3>
+<h3 align="left">Technologist in Software Analysis and Development :computer: :blue_heart:, and Electrical Engineer :zap:, passionate about the wonderful world of programming. Welcome to my little piece of code!</h3>
 &emsp;
-
-## 📈 Mi actividad en GitHub
+	
+## 📈 My activity on GitHub
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -31,7 +31,7 @@
 </table>
 &emsp;
 
-## :earth_americas: Contacta con migo
+## :earth_americas: Contact me
 <p align="left">
 	<a href="mailto:jose.miguel.ortega.g@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/KhadaJhiin"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
