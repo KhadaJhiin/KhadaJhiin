@@ -19,8 +19,9 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KhadaJhiin&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhadaJhiin&theme=dark&hide_border=false" /> 
-</td>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhadaJhiin&theme=dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=KhadaJhiin&theme=dark&hide_border=false" 
+     alt="GitHub Streak" />
 
 <td width="50%" align="center">
 
